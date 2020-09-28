@@ -94,5 +94,8 @@ ul li.active a{
 	color: #000;
 }
 footer{
-	background-color: #000;
+	background-color: #ff69B4;
+	height: 50px;
+	line-height: 40px;
+	bottom: 0px;
 }
